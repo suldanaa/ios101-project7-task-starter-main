@@ -32,7 +32,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't have much trouble with this project. I think it was a bit difficult at first to figure out how to make the data persist, but it was fairly straightforward to understand once I mapped everything out. The segue-ing was pretty easy too because it was similar to the lab. Overall, it was a straightforward assignment.
 
 ## License
 
